@@ -1,0 +1,13 @@
+empty_list=[]
+print()
+numbers=[123,456,789,101112,131415,161718]
+list3=len(numbers)
+print(list3)
+list4=numbers.append(9000)
+print(list4)
+list5=max(numbers)
+print(numbers)
+numbers1=numbers[0:3]
+print(numbers1)
+list1=("Gurveer,P,J,H",True)
+print(list1)
